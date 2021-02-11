@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("Hello World! My name is Jack Handy");
 		Jack jack1 = new Jack(19, "Brown");
 		Jack oldJack = new Jack(91, "Grey");
+		System.out.println("Wow Jack. Nice to meet you. You are getting old!");
 	}
 
 }
